@@ -103,6 +103,8 @@ h1 {
   justify-content: space-between;
   gap: 1rem;
   padding: 2rem;
+  border: 1px solid rgb(219, 219, 219);
+  border-radius: var(--btn-border-radius);
 }
 
 .Request__header {
